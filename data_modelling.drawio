@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T16:28:58.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="sK-vxw1Rjn1__t9KBYzG" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T16:33:12.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="9J3lGQbImr5VK3eUg4tl" version="24.6.0" type="github">
   <diagram name="Page-1" id="QnFC_Aewv8Gg6MU-K4Pe">
-    <mxGraphModel dx="1434" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="2135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="AjdsQVdTQSlc8sU3T5hf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AjdsQVdTQSlc8sU3T5hf-16" target="AjdsQVdTQSlc8sU3T5hf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AjdsQVdTQSlc8sU3T5hf-16" value="Attribution" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AjdsQVdTQSlc8sU3T5hf-16" value="Attrition" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="AjdsQVdTQSlc8sU3T5hf-17" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;employee_id (FK)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;termination_date&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;reason_for_leaving&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;position&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;salary_id(FK)&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;promotion_id(FK)&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AjdsQVdTQSlc8sU3T5hf-16">
